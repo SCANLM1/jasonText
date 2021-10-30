@@ -1,0 +1,17 @@
+[
+	{"name": "Mason Scanlan",
+	 "email": "FakeACC@eit.ac.nz",
+	 "address": ["EIT",	"77 Duart", "Napier",	"4112"]
+	},
+
+	{"name": "James SMITH",
+	 "email": "SMITHY@eit.ac.nz",
+	 "address": ["EIT",	"501 Gloucester", "Napier",	"4112"]
+	},
+	 
+	{"name": "Ian Purdon",
+	 "email": "ipurdon@eit.ac.nz",
+	 "address": ["EIT",	"501 Gloucester", "Napier",	"4112"]
+	}
+]
+		
